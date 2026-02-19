@@ -2119,7 +2119,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n    YOU WIN"
+  m_Text: "\n    YOU WIN!!!"
 --- !u!222 &1646244251
 CanvasRenderer:
   m_ObjectHideFlags: 0
